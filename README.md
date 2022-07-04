@@ -1,6 +1,12 @@
 # KAUN BANEGA VIRTUAL CROREPATI?
 
-### Run this package
+### Install package
+
+```
+npm i ekcrore
+```
+
+### Execute package
 
 ```
 npx ekcrore
